@@ -4,8 +4,8 @@
 
 Nesse projeto, usaremos a base de dados em csv: *players_22.csv* do site [Kaggle](https://www.kaggle.com/datasets/stefanoleone992/fifa-22-complete-player-dataset) para análisarmos os dados, primeiro tratando e depois extraindo insights que irão responder nossas perguntas centrais:
 
-- Quais seleções possuem a maior soma salarial?
-- Qual a seleção mais barata?
-- Qual seleção possui a maior e a menor média de idade?
-- Qual seleção possui maior média de Overall?
+- Quais nacionalidades possuem a maior soma salarial?
+- Qual a nacionalidade mais barata?
+- Qual nacionalidade possui a maior e a menor média de idade?
+- Qual nacionalidade possui maior média de Overall?
 - Comparação entre valor de elenco entre Barcelona x Real Madrid.
